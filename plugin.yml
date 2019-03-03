@@ -1,0 +1,13 @@
+name: SlimefunFix
+main: com.ram.slimefunfix.Main
+version: 1.0
+author: Ram
+depends: [Slimefun]
+
+commands:
+  slimefunfix:
+    aliases: [sff]
+
+permissions:
+  slimefunfix.reload:
+    default: op
